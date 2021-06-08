@@ -1,3 +1,3 @@
-# Tabluau_projects
-A few projects I've been messing around.
+# CA_Wildfires
+A project where I visiualize the effects of thunder on wildfires in CA from 1992-2015.
 
